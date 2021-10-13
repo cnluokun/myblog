@@ -1,13 +1,13 @@
 baseURL: https://example.com
 languageCode: en
 defaultContentLanguage: en
-title: KeepIt
+title: LuoKun's Blog
 theme: KeepIt
 paginate: 12
 enableEmoji: yes
 enableRobotsTXT: yes
 googleAnalytics: ''
-disqusShortname: yourdiscussshortname
+disqusShortname: cnlowkeng
 sitemap:
   changefreq: monthly
   filename: sitemap.xml
@@ -30,8 +30,8 @@ menu:
       url: /about
       weight: 4
 params:
-  author: Fastbyte01
-  avatar: /images/me/avatar.jpeg
+  author: LuoKun
+  avatar: /images/me/Robotics.png
   baidu_verification: ''
   bing_verification: ''
   cdn_url: ''
@@ -81,7 +81,7 @@ params:
     Linkedin: xxxx
     Twitter: xxxx
   socialShare: yes
-  subtitle: A Hugo theme
+  subtitle: 苟有恒,何必三更眠五更起 | 最无益,莫过一日曝十日寒
   utterances:
     owner: ''
     repo: ''
